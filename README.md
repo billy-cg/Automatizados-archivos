@@ -1,6 +1,6 @@
 Descargar
 
-[Descargar última versión (Windows)](https://github.com/billy-cg/Automatizador-archivos/releases/latest)
+[Descargar última versión (Windows)](https://github.com/billy-cg/Automatizados-archivos/releases)
 
 
 
